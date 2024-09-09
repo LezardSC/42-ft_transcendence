@@ -7,7 +7,7 @@ This project consists in creating a website to take part in a competition of the
 
 The aim of the project is to immerse students in a project they have no experience of. They have to learn Web development from scratch in order to successfully complete the project.
 
-They is a mandatory part to this project, and a bunch of modules to choose from to complete it. 
+They are a mandatory part to this project, and a bunch of modules to choose from to complete it.
 
 You can see read the whole subject [here](en.subject.pdf). There are the modules we chose :
 
